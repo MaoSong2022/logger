@@ -1,5 +1,5 @@
 # Introduction
-This repoistory is a small but useful logging tool for developing. It is originated from the Yash Prakash at towardsdatascience.com.
+This repository is a small but useful logging tool for developing. It is originated from the Yash Prakash at towardsdatascience.com.
 
 I put it here for easy use. 
 
