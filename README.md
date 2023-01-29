@@ -18,4 +18,5 @@ then, you can use the `log` as usually. The output of `log` will redirect to the
 
 # Reference
 https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540
+
 https://github.com/yashprakash13/Python-Cool-Concepts/tree/main/logging_template
