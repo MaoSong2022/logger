@@ -3,7 +3,7 @@ import logging
 APP_LOGGER_NAME = 'APP'
 
 
-def setup_applevel_logger(logger_name=APP_LOGGER_NAME, file_name="app_debug.log"):
+def setup_app_level_logger(logger_name=APP_LOGGER_NAME, file_name="app_debug.log"):
     logger = logging.getLogger(logger_name)
     logger.setLevel(logging.DEBUG)
     formatter = logging.Formatter(
